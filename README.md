@@ -1,5 +1,6 @@
 # AC2_Mobile
 Prova AC2 Desenvolvimento de Apps para Mobile
+
 Crie um app que ajude o usuário a realizar circuitos de treino físico com descanso
 programado. O app deve permitir que o usuário cadastre uma sequência simples
 de exercícios com seus respectivos tempos, e o app deve guiá-lo com notificações
